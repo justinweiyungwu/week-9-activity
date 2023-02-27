@@ -1,0 +1,6 @@
+.popup__area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: var(--font-mono);
+}
